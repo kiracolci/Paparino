@@ -1,0 +1,23 @@
+
+body{
+	background-image: url('https://images.unsplash.com/photo-1665674997432-126b376cb8e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Silkscreen', cursive;
+	font-size: xx-large;
+	padding-bottom: 20px;
+}
+h2 {
+	font-family: 'Silkscreen', cursive;
+	font-size: large;
+	padding-bottom: 30px;
+}
+		
+a {
+	margin: ;
+}
+	
